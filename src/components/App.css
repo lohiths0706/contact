@@ -1,0 +1,51 @@
+.body{
+  text-align: center;
+  font-display: bold;
+}
+.space{
+  margin-left: 2%;
+}
+label{
+  font-style: bold;
+}
+input{
+  margin: 7px;
+  padding: 2px;
+  width: 500px;
+}
+button{
+  margin-top: 30px;
+  margin-left: 300px;
+}
+.space2{
+  font-size: large;
+  background-color: blue;
+}
+
+/* {
+  margin: 7px;
+  padding: 2px;
+} */
+
+.s1{
+  
+  margin-top: 10px;
+}
+.som{
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom:5px;
+}
+.som i{
+  margin-left:150px;
+  margin-bottom:50px;
+  width: 50px;
+}
+.del i{
+  font-size: 200%;
+}
+.bold{
+  color: black;
+  font-size: 150%;
+}
+
